@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3 align="left">Apresentação</h3>
 
-<!--
-**Borriguel/Borriguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Olá! Me chamo Rodolpho e sou estudante de desenvolvimento backend na instituição de ensino superior Unopar.
+- 🌱 Estou atualmente estudando **Java, Spring Boot, Python, MySQL e PostgreSql.**
 
-Here are some ideas to get you started:
+<h3 align="left">Linguagens e ferramentas que mais utilizo:</h3>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height"50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height"50"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Contato:</h3>
+<a href="mailto:rodolpho.omedio@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rodolpho.omedio@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/rodo-borriguel/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
