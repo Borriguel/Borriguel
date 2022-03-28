@@ -1,6 +1,6 @@
 <h3 align="left">Apresentação</h3>
 
-- 👋 Olá! Me chamo Rodolpho e sou estudante de desenvolvimento backend na instituição de ensino superior Unopar.
+- 👋 Olá! Me chamo Rodolpho e sou estudante de desenvolvimento Back-End na instituição de ensino superior Unopar.
 - 🌱 Estou atualmente estudando **Java, Spring Boot, Python, MySQL e PostgreSql.**
 
 <h3 align="left">Linguagens e ferramentas que mais utilizo:</h3>
